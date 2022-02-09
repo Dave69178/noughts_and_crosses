@@ -24,3 +24,7 @@ This was a good algorithm for me to implement as it is quite simple in theory bu
 ### The GUI
 
 I had no experience with GUI's before this and I used the PySimpleGUI module to create this. After a little bit of reading, it seemed rather unsurpringly simple. Obviously the application doesn't involve anything particularly complex, but I would use the module again.
+
+## A note
+
+Efficiency and concision within the program could be much improved. This may be addressed in future.
